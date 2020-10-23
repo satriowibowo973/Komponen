@@ -1,0 +1,21 @@
+.article{
+    border-bottom: 1px solid #dcdcdc;
+    padding: 40px 20px;
+}
+
+.article p {
+    margin-bottom: 0px;
+    color: #484848;
+}
+
+.article:last-child{
+    border-bottom:none;
+    padding-botom:0px;
+
+}
+
+.article:first-child{
+    padding-top:0px;
+    
+}
+
